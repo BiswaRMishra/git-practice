@@ -11,5 +11,6 @@ Go to website.
 Group Name: Qtiyas
 
 Members:
-* Member 1
-* Member 2
+* Biswa
+* Sahil
+* Chandan
